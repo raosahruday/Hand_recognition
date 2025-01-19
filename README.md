@@ -1,5 +1,5 @@
-# Hand_recognition
-# Hand_Recoginiton
+
+# Hand_Recoginiton_using_gestures
 # Hand Volume Control using MediaPipe and PyAutoGUI
 
 ## Overview
